@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:07,350
+Bom dia a todos. Vamos começar a reunião de fechamento do mês de outubro.
+
+2
+00:00:07,350 --> 00:00:14,610
+Primeiro ponto, a conciliação bancária foi concluída e não encontramos diferenças.
+
+3
+00:00:14,610 --> 00:00:25,610
+Segundo ponto, o Balancete apresentou uma variação de 20% nas despesas administrativas e precisamos analisar a causa.
+
+4
+00:00:25,610 --> 00:00:34,430
+Por fim, o prazo para entrega das obrigações acessórias é dia 15. Alguma dúvida?
+

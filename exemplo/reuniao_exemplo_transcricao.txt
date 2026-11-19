@@ -1,0 +1,4 @@
+[0.0s -> 7.3s] Bom dia a todos. Vamos começar a reunião de fechamento do mês de outubro.
+[7.3s -> 14.6s] Primeiro ponto, a conciliação bancária foi concluída e não encontramos diferenças.
+[14.6s -> 25.6s] Segundo ponto, o Balancete apresentou uma variação de 20% nas despesas administrativas e precisamos analisar a causa.
+[25.6s -> 34.4s] Por fim, o prazo para entrega das obrigações acessórias é dia 15. Alguma dúvida?
