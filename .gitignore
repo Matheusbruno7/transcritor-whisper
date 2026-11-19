@@ -1,0 +1,13 @@
+# Áudios e resultados das suas transcrições (não publicar)
+*.wav
+*.mp4
+*.m4a
+*_limpo.*
+resultados/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Mantém o exemplo
+!exemplo/*
